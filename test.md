@@ -14,3 +14,19 @@ list(range(1,6))
 #list2=range(1,6)
 #list2
 ```
+# range的技術(3)
+```
+list3=range(1,6,2)
+list3
+```
+```
+答案是:
+```
+# range的技術(4)
+```
+for dd in range(6):
+   print(dd)
+```
+```
+答案是:
+```
