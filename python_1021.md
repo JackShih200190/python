@@ -80,3 +80,13 @@ Ans:2500
 ```
 
 ```
+使用while 迴圈(loop計算1*3*5*7.....*99
+```
+```
+sum=1
+index = 1
+while index < 101:
+  sum *=index
+  print(sum)
+  index=index+2
+```
