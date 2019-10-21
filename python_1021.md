@@ -56,6 +56,7 @@ while index < 101:
 ```
 使用while 迴圈(loop)計算1+3+5+7.....+99
 ```
+```
 sum=0
 index = 1
 while index < 101:
