@@ -19,13 +19,13 @@ for index in range(0, 6):
 使用For 迴圈(loop)計算1+2+3+.....100
 ```
 ```
-Ans:sum=0
+sum=0
 
 for x in range(1,101):
   sum +=x
   
 print(sum)
-5050
+Ans:5050
 ```
 # while 迴圈(loop)
 
