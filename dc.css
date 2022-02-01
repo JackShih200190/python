@@ -55,6 +55,7 @@
 	--interactive-hover: hsla(253, 35%, 66%, 0.7);
 	--interactive-active: hsla(253, 35%, 66%, 0.5);
 	--interactive-muted: var(--color8);
+	--home-image: url('https://i.imgur.com/hhAjhw0.gif');
 	--background-primary: var(--bg);
 	--background-secondary: var(--bg-darker);
 	--background-secondary-alt: var(--bg-dark);
