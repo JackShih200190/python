@@ -6,7 +6,6 @@ form>.form-group.row>(.col-9>label{Create new task}+input.form-control)+.col-aut
 
 
 ```html
-    <div id="app">
         <form action="">
             <div class="form-group row">
                 <div class="col-9"><label for="">Create new task</label><input type="text" class="form-control"></div>
